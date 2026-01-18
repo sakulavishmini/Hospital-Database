@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<patients>
+    <patient>
+        <PatientID>P003</PatientID>
+        <PatientName>F.M. Alwis</PatientName>
+        <Age>32</Age>
+        <Address>45, Flower road, Maharagama</Address>
+        <TelephoneNumber>0765264326</TelephoneNumber>
+        <BloodType>O-</BloodType>
+        <Allergies>Penicillin</Allergies>
+        <PrimaryDoctorID>D004</PrimaryDoctorID>
+    </patient>
+</patients>

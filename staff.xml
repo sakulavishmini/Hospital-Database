@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<staffmembers>
+    <staff>
+        <EmployeeNumber>D001</EmployeeNumber>
+        <EmployeeName>N.S.Fernando</EmployeeName>
+        <Gender>Male</Gender>
+        <Address>1st Cross Street, High level road, Nugegoda</Address>
+        <TelephoneNumber>0778454845</TelephoneNumber>
+    </staff>
+</staffmembers>
