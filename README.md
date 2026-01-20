@@ -18,10 +18,3 @@ It manages staff, patients, medications, surgeries, and hospital locations using
 
 ---
 
-## Database Design
-- **EER Diagram:** `Diagrams/EERD.png`  
-- **Relational Schema:** `Diagrams/RelationalSchema.png`  
-
----
-
-
