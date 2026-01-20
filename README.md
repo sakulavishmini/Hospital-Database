@@ -24,7 +24,4 @@ It manages staff, patients, medications, surgeries, and hospital locations using
 
 ---
 
-## Usage
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/YourUsername/Hospital-Database-MiniProject.git
+
