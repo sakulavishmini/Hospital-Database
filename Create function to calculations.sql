@@ -1,6 +1,3 @@
-# Q4 - 423606450  
-
-
 USE Suwapiyasa_DB;
 
 /* Drop function if exists */
