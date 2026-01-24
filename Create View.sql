@@ -1,6 +1,3 @@
-# Q1 - 423606450  
-
-
 USE Suwapiyasa_DB;
 
 DROP VIEW IF EXISTS View_Patient_Surgery_Location_Info;
