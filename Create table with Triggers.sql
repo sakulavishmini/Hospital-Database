@@ -1,6 +1,3 @@
-# Q2 - 423606450  
-
-
 USE Suwapiyasa_DB;
 
 
