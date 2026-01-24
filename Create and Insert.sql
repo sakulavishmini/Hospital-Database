@@ -1,8 +1,4 @@
-/*Database : Suwapiyasa_DB 
-Reg No : 423606450,  S No : S23010359*/
-
-
-/*Task 01 -  Create Database and Tables*/
+/*Create Database and Tables*/
 
 
 DROP database if exists Suwapiyasa_DB;
@@ -166,7 +162,7 @@ create table PatientMedicationInteractions(
 
 
 
-/*Task 02 - Database Population*/
+/*Database Population*/
 
 /*Insert into Staff Table*/
 insert into Staff (EmployeeNumber, EmployeeName, Gender, Address, TelephoneNumber, StaffType) values
