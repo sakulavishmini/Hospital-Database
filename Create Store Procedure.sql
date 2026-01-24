@@ -1,6 +1,3 @@
-# Q3 - 423606450  
-
-
 USE Suwapiyasa_DB;
 
 /* Drop procedure if exists */
